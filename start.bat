@@ -1,0 +1,1 @@
+java -Xms4080M -Xmx4080M -jar server.jar

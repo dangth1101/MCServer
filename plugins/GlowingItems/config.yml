@@ -1,0 +1,24 @@
+enabled: true
+check-dropped-items: true
+entity-scan-box-size: 30
+glowing_materials:
+  TORCH:
+    level: 15
+  SOUL_TORCH:
+    level: 10
+  LANTERN:
+    level: 14
+  SOUL_LANTERN:
+    level: 10
+  GLOWSTONE:
+    level: 15
+  GLOW_BERRIES:
+    level: 12
+  GLOW_INK_SAC:
+    level: 12
+  SEA_LANTERN:
+    level: 15
+  AMETHYST_SHARD:
+    level: 6
+  AMETHYST_CLUSTER:
+    level: 8

@@ -1,0 +1,79 @@
+[22:16:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Amazon.com Inc. Corretto-21.0.4.7.1) on Windows 11 10.0 (amd64)
+[22:16:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-109-master@5a5035b (2024-07-23T08:16:30Z) for Minecraft 1.21
+[22:16:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:16:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[22:16:12] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - GlowingItems (1.0.3), Timber (1.3.7)
+[22:16:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:16:18] [ServerMain/INFO]: Loaded 1290 recipes
+[22:16:18] [ServerMain/INFO]: Loaded 1399 advancements
+[22:16:19] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:16:19] [Server thread/INFO]: Loading properties
+[22:16:19] [Server thread/INFO]: This server is running Paper version 1.21-109-master@5a5035b (2024-07-23T08:16:30Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[22:16:20] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:16:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:16:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:16:21] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and population gen parallelism of 3 threads
+[22:16:21] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:21] [Server thread/INFO]: Generating keypair
+[22:16:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:21] [Server thread/INFO]: Using default channel type
+[22:16:21] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[22:16:21] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[22:16:22] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.3.7
+[22:16:22] [Server thread/INFO]: [GlowingItems] Loading server plugin GlowingItems v1.0.3
+[22:16:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:16:22] [Server thread/INFO]: [GlowingItems] Enabling GlowingItems v1.0.3
+[22:16:22] [Server thread/INFO]: [GlowingItems] GlowingItems is now enabled, thank you for using my Plugin!
+[22:16:22] [Server thread/INFO]: [GlowingItems] You can find instructions here: https://codingcat2468.github.io/minecraft/2024/04/07/glowing-items-plugin.html
+[22:16:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:16:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:16:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:16:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:16:22] [Server thread/INFO]: Preparing level "world"
+[22:16:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:16:23] [Server thread/INFO]: Time elapsed: 1012 ms
+[22:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:16:23] [Server thread/INFO]: Time elapsed: 169 ms
+[22:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:16:23] [Server thread/INFO]: Time elapsed: 78 ms
+[22:16:23] [Server thread/INFO]: [Timber] Enabling Timber v1.3.7
+[22:16:23] [Server thread/INFO]: [spark] Starting background profiler...
+[22:16:23] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[22:16:23] [Server thread/INFO]: Done preparing level "world" (1.901s)
+[22:16:24] [Server thread/INFO]: Running delayed init tasks
+[22:16:24] [Server thread/INFO]: Done (14.169s)! For help, type "help"
+[22:16:24] [Server thread/INFO]: Timings Reset
+[22:18:13] [User Authenticator #0/INFO]: UUID of player GoogleBrowser is d936e759-b2cf-3c8e-8806-2aa069bce76f
+[22:18:14] [Server thread/INFO]: GoogleBrowser joined the game
+[22:18:15] [Server thread/INFO]: GoogleBrowser[/[0:0:0:0:0:0:0:1]:58870] logged in with entity id 5 at ([world]259.44744246681483, 64.0, 712.9000726506355)
+[22:18:27] [Server thread/INFO]: GoogleBrowser issued server command: /timber admin
+[22:18:32] [Server thread/INFO]: GoogleBrowser issued server command: /timber
+[22:20:42] [Server thread/INFO]: GoogleBrowser lost connection: Disconnected
+[22:20:42] [Server thread/INFO]: GoogleBrowser left the game
+[22:35:10] [Server thread/INFO]: Stopping the server
+[22:35:10] [Server thread/INFO]: Stopping server
+[22:35:10] [Server thread/INFO]: [GlowingItems] Disabling GlowingItems v1.0.3
+[22:35:10] [Server thread/INFO]: [GlowingItems] GlowingItems is stopping! Bye!
+[22:35:10] [Server thread/INFO]: [Timber] Disabling Timber v1.3.7
+[22:35:10] [Server thread/INFO]: Saving players
+[22:35:10] [Server thread/INFO]: Saving worlds
+[22:35:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 86 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[22:35:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:35:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:35:10] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:35:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:35:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:35:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:35:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

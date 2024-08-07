@@ -1,0 +1,20 @@
+plugin-prefix: "[TreeTimber] " # plugin prefix
+
+#    needperms description
+# if false everyone can cut down a tree
+# If true, then you need to give the group the permission "timber.capitate"
+needsperms: false
+
+#    plant-sapling description
+# Sowing a seedling after cutting down a tree
+plant-sapling: true
+
+#    worked-axes description
+#Available axes , If not selected, all will work
+#  - WOODEN_AXE
+#  - STONE_AXE
+#  - IRON_AXE
+#  - GOLDEN_AXE
+#  - DIAMOND_AXE
+worked-axes:
+  - #WOODEN_AXE
